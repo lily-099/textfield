@@ -8,7 +8,6 @@ dependencies:
   flutter: 
     sdk: flutter
   cupertino_icons: ^1.0.2
-  flutter_svg: ^1.0.3
   auto_size_text: 3.0.0
 dev_dependencies: 
   flutter_test: 
@@ -18,6 +17,3 @@ flutter:
   uses-material-design: true
   assets: 
     - packages/textfield/assets/images/ellipse1.png
-    - packages/textfield/assets/images/cap.svg
-    - packages/textfield/assets/images/wifi.svg
-    - packages/textfield/assets/images/cellularconnection.svg
