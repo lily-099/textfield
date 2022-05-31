@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:textfield/screens/page_1/i_phone13mini_1.g.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: IPhone13mini1(),
+      home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
 }
